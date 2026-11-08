@@ -44,12 +44,14 @@
 
 ---
 
+
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoqueiroz00&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas nos repositórios públicos" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaoqueiroz00&theme=github_dark" alt="Linguagens mais utilizadas nos commits" />
 
 </div>
+
 
 
