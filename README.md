@@ -29,3 +29,15 @@
 - Banco de Dados
 - Redes de Computadores
 - Linux e fundamentos de Segurança da Informação
+
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,c,postgres,mongodb,git,github,linux,vscode&perline=6" alt="Tecnologias e ferramentas" />
+
+</div>
+
