@@ -41,3 +41,15 @@
 
 </div>
 
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoqueiroz00&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas nos repositórios públicos" />
+
+</div>
+
+
