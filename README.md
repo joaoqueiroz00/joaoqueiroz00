@@ -70,6 +70,13 @@
     alt="Linguagens utilizadas nos repositórios"
   />
 
+  
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaoqueiroz00&theme=github_dark"
+  alt="Estatísticas gerais do GitHub"
+/>
+
+
 </div>
 
 
