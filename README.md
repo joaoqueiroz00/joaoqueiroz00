@@ -108,3 +108,21 @@ Jogo Campo Minado desenvolvido em linguagem C, com interface gráfica utilizando
 
 
 
+---
+
+## 📫 Vamos nos conectar?
+
+Estou aberto a oportunidades de estágio, aprendizado e colaboração em projetos de tecnologia.
+
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-queiroz-de-lima-50898a425/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/joaoqueiroz00">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</div>
+
+
+
