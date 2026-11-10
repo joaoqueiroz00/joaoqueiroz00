@@ -33,13 +33,28 @@
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
 
-<div align="center">
+## 🛠️ Tecnologias e Ferramentas
 
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,c,postgres,mongodb,git,github,linux,vscode&perline=6" alt="Tecnologias e ferramentas" />
+### Linguagens
+![JavaScript](https://skillicons.dev/icons?i=js)
+![Java](https://skillicons.dev/icons?i=java)
+![C](https://skillicons.dev/icons?i=c)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
 
-</div>
+### Back-end e Banco de Dados
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+
+### Ferramentas
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VS Code](https://skillicons.dev/icons?i=vscode)
+![Visual Studio](https://skillicons.dev/icons?i=visualstudio)
+![Linux](https://skillicons.dev/icons?i=linux)
 
 
 ---
