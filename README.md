@@ -61,23 +61,22 @@
 
 
 
+
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaoqueiroz00&theme=github_dark"
     alt="Linguagens utilizadas nos repositórios"
+    width="48%"
   />
-
-  
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaoqueiroz00&theme=github_dark"
-  alt="Estatísticas gerais do GitHub"
-/>
-
-
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaoqueiroz00&theme=github_dark"
+    alt="Estatísticas gerais do GitHub"
+    width="48%"
+  />
 </div>
+
 
 
 ## 🚀 Projetos em Destaque
