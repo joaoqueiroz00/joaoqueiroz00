@@ -60,13 +60,18 @@
 ---
 
 
+
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaoqueiroz00&theme=github_dark" alt="Linguagens mais utilizadas nos commits" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaoqueiroz00&theme=github_dark"
+    alt="Linguagens utilizadas nos repositórios"
+  />
 
 </div>
+
 
 ## 🚀 Projetos em Destaque
 
