@@ -53,5 +53,32 @@
 
 </div>
 
+## 🚀 Projetos em Destaque
+
+### 💰 [Minhas Finanças](https://github.com/joaoqueiroz00/controle-despesas)
+Sistema web de controle financeiro pessoal, desenvolvido com Node.js, Express, PostgreSQL e Sequelize.
+
+**Funcionalidades:** gerenciamento de receitas e despesas, categorias, usuários, filtros, paginação e autenticação.
+
+**Tecnologias:** JavaScript · Node.js · Express · PostgreSQL · Sequelize · Handlebars
+
+---
+
+### 🚗 [Sistema de Oficina de Funilaria e Pintura](https://github.com/joaoqueiroz00/sistema-oficina-funilaria-pintura)
+Aplicação desktop desenvolvida em Java para gerenciamento de uma oficina automotiva, aplicando conceitos de Programação Orientada a Objetos.
+
+**Funcionalidades:** cadastro de clientes, veículos, profissionais, materiais e ordens de serviço.
+
+**Tecnologias:** Java · Swing · Maven · POO
+
+---
+
+### 💣 [Campo Minado em C](https://github.com/joaoqueiroz00/campo-minado-c)
+Jogo Campo Minado desenvolvido em linguagem C, com interface gráfica utilizando a biblioteca Raylib.
+
+**Destaques:** lógica de programação, organização modular do código e desenvolvimento de interface gráfica.
+
+**Tecnologias:** C · Raylib
+
 
 
